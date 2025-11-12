@@ -3,6 +3,7 @@
 <p align="center">
   <i>Windows trainer for <b>Hell Clock</b> — written in Python (3.12)</i><br>
   🐍 Auto-attaches to <code>Hell Clock.exe</code> and enables real-time cheats.
+  🔧 <b>Currently works on:</b> <code>Hell Clock v1.1.1.17725</code>
 </p>
 
 ---
@@ -37,7 +38,7 @@ trainer.exe
 | 💻 Language | Python 3.12 |
 | 🪟 Platform | Windows 10 / 11 |
 | 🎯 Target | `Hell Clock.exe` |
-
+| 🔢 Game Version | `v1.1.1.17725` |
 ---
 
 
@@ -48,6 +49,7 @@ trainer.exe
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Platform-Windows-lightgrey?logo=windows&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Game-v1.1.1.17725-informational?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Stable-success?style=flat-square" />
 </p>
 
