@@ -1,10 +1,22 @@
+<!-- SEO Meta Tags -->
+<meta name="description" content="Download Hell Clock Trainer v1.0.0 — a Python-based Windows trainer for Hell Clock v1.1.1.17725. Provides auto-attach, infinite HP (999), and live process hook.">
+<meta name="keywords" content="Hell Clock Trainer, Hell Clock cheat, Hell Clock hack, Hell Clock download, Hell Clock infinite HP, Python trainer, game trainer, Windows trainer">
+
 <h1 align="center">⚙️ <b>Hell Clock Trainer v1.0.0</b></h1>
 
 <p align="center">
-  <i>Windows trainer for <b>Hell Clock</b> — written in Python (3.12)</i><br>
-  🐍 Auto-attaches to <code>Hell Clock.exe</code> and enables real-time cheats.
-  🔧 <b>Currently works on:</b> <code>Hell Clock v1.1.1.17725</code>
+  <i>Powerful Windows trainer for <b>Hell Clock</b> — written in Python (3.12)</i><br>
+  🐍 Automatically attaches to <code>Hell Clock.exe</code> and enables real-time cheats.<br>
+  🔧 <b>Currently compatible with:</b> <code>Hell Clock v1.1.1.17725</code>
 </p>
+
+---
+
+### 📖 About
+**Hell Clock Trainer** is a lightweight and efficient **Windows game trainer** developed in Python.  
+It allows players to activate cheats such as **Infinite HP (999)** using static pointer chains, ensuring full compatibility with the latest **Hell Clock version 1.1.1.17725**.
+
+This project is designed for **learning and research purposes**, showcasing Python memory manipulation and process hooking techniques.
 
 ---
 
@@ -12,13 +24,15 @@
 📦 **Latest Release:**  
 👉 [**Hell Clock Trainer v1.0.0**](https://github.com/ZaksSaFita/Hell-Clock-Trainer/releases/tag/v1.0)
 
+> 💡 Download the latest version of Hell Clock Trainer to get automatic process detection and Infinite HP support.
+
 ---
 
 ### ✨ Features
-- 🔍 <b>Auto-detection</b> and process hook  
-- 💉 <b>Infinite HP (999)</b> via static pointer chains  
-- 🧭 <b>Visual status</b> for hook and pointer health  
-
+- 🔍 **Auto-detection** and process hook  
+- 💉 **Infinite HP (999)** using static pointer chains  
+- 🧭 **Visual status** indicators for hook and pointer health  
+- ⚙️ Fully compatible with **Hell Clock v1.1.1.17725**  
 
 ---
 
@@ -27,7 +41,7 @@
 |-------------|----------------|
 | 🟢 **v1.0.0** | Initial release — auto-attach + Infinite HP |
 
-> 🔄 Future versions will extend the changelog (`v1.0.1`, `v1.1.0`, …)
+> 🔄 Future versions will expand functionality and improve detection accuracy.
 
 ---
 
@@ -38,8 +52,6 @@
 | 🪟 Platform | Windows 10 / 11 |
 | 🎯 Target | `Hell Clock.exe` |
 | 🔢 Game Version | `v1.1.1.17725` |
----
-
 
 ---
 
