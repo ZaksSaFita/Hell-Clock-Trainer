@@ -1,35 +1,53 @@
-⚙️ Hell Clock Trainer v1.0.0
+<h1 align="center">⚙️ <b>Hell Clock Trainer v1.0.0</b></h1>
 
-🧠 Windows trainer built for the game “Hell Clock” — written in Python (3.12)
+<p align="center">
+  <i>Windows trainer for <b>Hell Clock</b> — written in Python (3.12)</i><br>
+  🐍 Auto-attaches to <code>Hell Clock.exe</code> and enables real-time cheats.
+</p>
 
-🐍 Automatically attaches to Hell Clock.exe and provides real-time cheats & memory patching.
+---
 
-🚀 Features
+### ✨ Features
+- 🔍 <b>Auto-detection</b> and process hook  
+- 💉 <b>Infinite HP (999)</b> via static pointer chains  
+- 🧭 <b>Visual status</b> for hook and pointer health  
 
-🔍 Auto-detection and hook on process
+---
 
-💉 Infinite HP (999) via static pointer chains
-
-🧭 Visual status indicators for hook and pointer states
-
-🧩 Build Format
-
-🪄 Packaged with PyInstaller
-
+### 🧩 Build Format
 trainer.exe
 │
-└── onefile, noconsole
+└── onefile, noconsole (PyInstaller)
 
-🧾 Changelog
-Version	Description
-🟢 v1.0.0	Initial release — auto-attach + Infinite HP
 
-🕐 Future releases will expand this changelog with new sections (v1.0.1, v1.1.0, …).
+---
 
-🧠 Tech Info
+### 🧾 Changelog
+| 🏷️ Version | 📝 Description |
+|-------------|----------------|
+| 🟢 **v1.0.0** | Initial release — auto-attach + Infinite HP |
 
-Language: Python 3.12
+> 🔄 Future versions will extend the changelog (`v1.0.1`, `v1.1.0`, …)
 
-Platform: Windows 10/11
+---
 
-Target process: Hell Clock.exe
+### ⚙️ Technical Info
+| Category | Details |
+|-----------|----------|
+| 💻 Language | Python 3.12 |
+| 🪟 Platform | Windows 10 / 11 |
+| 🎯 Target | `Hell Clock.exe` |
+
+---
+
+
+---
+
+<h3 align="center">🚀 Developed with ❤️ in Python</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform-Windows-lightgrey?logo=windows&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Status-Stable-success?style=flat-square" />
+</p>
+
