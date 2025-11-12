@@ -19,13 +19,6 @@
 - 💉 <b>Infinite HP (999)</b> via static pointer chains  
 - 🧭 <b>Visual status</b> for hook and pointer health  
 
----
-
-### 🧩 Build Format
-trainer.exe
-│
-└── onefile, noconsole (PyInstaller)
-
 
 ---
 
