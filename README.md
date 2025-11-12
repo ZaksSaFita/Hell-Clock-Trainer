@@ -8,6 +8,12 @@
 
 ---
 
+### ⬇️ Download
+📦 **Latest Release:**  
+👉 [**Hell Clock Trainer v1.0.0**](https://github.com/ZaksSaFita/Hell-Clock-Trainer/releases/tag/v1.0)
+
+---
+
 ### ✨ Features
 - 🔍 <b>Auto-detection</b> and process hook  
 - 💉 <b>Infinite HP (999)</b> via static pointer chains  
